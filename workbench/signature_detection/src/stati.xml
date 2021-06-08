@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auswertung>
+  <Experiment id="1">
+    <dauer datum="12.3.2019">32</dauer>
+    <AnzahlDateien>12</AnzahlDateien>
+    <korrekterLehrer>18</korrekterLehrer>
+    <falscheLehrer>192</falscheLehrer>
+    <neue>2</neue>
+  </Experiment>
+  <Experiment id="2">
+    <dauer datum="13.3.2019">72</dauer>
+    <AnzahlDateien>46</AnzahlDateien>
+    <korrekterLehrer>29</korrekterLehrer>
+    <falscheLehrer>171</falscheLehrer>
+    <neue>2</neue>
+  </Experiment>
+  <Experiment id="3">
+    <dauer datum="14.3.2019">77</dauer>
+    <AnzahlDateien>208</AnzahlDateien>
+    <korrekterLehrer>84</korrekterLehrer>
+    <falscheLehrer>334</falscheLehrer>
+  </Experiment>
+</auswertung>
